@@ -42,7 +42,7 @@ def chat():
     chat = chat_data[ticket]
 
     if is_demo:
-        bot_reply = f"👋 Hello! I’m the {brand_bots.get(product, 'Support Bot')}."
+        bot_reply = f"👋 Hello! I'm the {brand_bots.get(product, 'Support Bot')}."
     elif not product or product == "default":
         return jsonify({"reply": "Please select a product to continue.", "ticket": ticket})
     else:
