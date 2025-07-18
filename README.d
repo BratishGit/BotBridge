@@ -1,5 +1,5 @@
 
-# **BotBridge: Multi-Bot Customer Support Simulation** 
+BotBridge: Multi-Bot Customer Support Simulation
 
 BotBridge is an intelligent chatbot interface that simulates seamless interaction between a main support bot and product-specific bots. It demonstrates how a central bot can route user queries to relevant bots depending on the product type, creating a multi-bot bridge system that enhances customer support experience.
 
@@ -9,16 +9,16 @@ Customer service systems often lack centralized automation. Users struggle to re
 
 Features:
 
-- 💬 Chat interface with fake multi-bot handoff simulation  
-- 🌐 Multi-language support using Google Translate  
-- 📄 PDF transcript download of chat history  
-- 🌙 Dark/light mode toggle  
-- 📊 Admin panel with fake analytics dashboard using Chart.js  
-- 🧾 CSV-based ticket logging  
-- ⭐ Rate support experience after conversation  
-- 🗃️ Load and resume chat history from previous tickets  
-- ⏳ Typing effect and timed delays for realism  
-- 🧪 Fake data and logic to demonstrate production-like chatbot behavior  
+- Chat interface with fake multi-bot handoff simulation  
+- Multi-language support using Google Translate  
+- PDF transcript download of chat history  
+- Dark/light mode toggle  
+- Admin panel with fake analytics dashboard using Chart.js  
+- CSV-based ticket logging  
+- Rate support experience after conversation  
+- Load and resume chat history from previous tickets  
+- Typing effect and timed delays for realism  
+- Fake data and logic to demonstrate production-like chatbot behavior  
 
 Tech Stack:
 
