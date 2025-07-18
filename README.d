@@ -1,5 +1,5 @@
 
-BotBridge: Multi-Bot Customer Support Simulation
+# **BotBridge: Multi-Bot Customer Support Simulation** 
 
 BotBridge is an intelligent chatbot interface that simulates seamless interaction between a main support bot and product-specific bots. It demonstrates how a central bot can route user queries to relevant bots depending on the product type, creating a multi-bot bridge system that enhances customer support experience.
 
