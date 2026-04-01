@@ -1,33 +1,33 @@
-# 🌉 BotBridge: Multi-Bot Customer Support Simulation
+# BotBridge: Multi-Bot Customer Support Simulation
 
 BotBridge is an intelligent chatbot system that simulates seamless interaction between a central support bot and multiple product-specific bots. It demonstrates how a unified interface can dynamically route user queries to the right support channel, improving efficiency and user experience.
 
 ---
 
-## 🚀 Problem Statement
+## Problem Statement
 
 Customer support systems are often fragmented, making it difficult for users to reach the correct support channel for different products. This leads to delays, frustration, and poor user experience.
 
-**BotBridge solves this problem** by acting as a central bridge that intelligently routes user queries to the appropriate product-specific bots.
+BotBridge solves this problem by acting as a central bridge that intelligently routes user queries to the appropriate product-specific bots.
 
 ---
 
-## ✨ Features
+## Features
 
-- 💬 Interactive chat interface with simulated multi-bot handoff  
-- 🌐 Multi-language support using Google Translate  
-- 📄 PDF download of chat transcripts  
-- 🌙 Dark/Light mode toggle  
-- 📊 Admin dashboard with analytics (Chart.js)  
-- 🧾 CSV-based ticket logging  
-- ⭐ User rating system for support experience  
-- 🔄 Load and resume previous chat sessions  
-- ⏳ Typing effects and delays for realistic conversations  
-- 🧪 Simulated backend logic for demo purposes  
+- Interactive chat interface with simulated multi-bot handoff  
+- Multi-language support using Google Translate  
+- PDF download of chat transcripts  
+- Dark/Light mode toggle  
+- Admin dashboard with analytics (Chart.js)  
+- CSV-based ticket logging  
+- User rating system for support experience  
+- Load and resume previous chat sessions  
+- Typing effects and delays for realistic conversations  
+- Simulated backend logic for demo purposes  
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Layer          | Technology                      |
 |----------------|--------------------------------|
@@ -40,25 +40,25 @@ Customer support systems are often fragmented, making it difficult for users to 
 
 ---
 
-## ⚙️ How It Works
+## How It Works
 
-1. 👤 User starts a conversation with the main support bot  
-2. 🔀 Bot identifies the product type and routes to a specialized bot (e.g., MouseBot, KeyboardBot)  
-3. 🧠 The product-specific bot handles the query  
-4. 🎫 A ticket ID is generated for tracking  
-5. 💾 Chat history is stored in CSV format  
-6. 📥 User can download the chat as a PDF  
-7. 📊 Admin panel visualizes data like queries, ratings, and escalations  
-
----
-
-## 🎥 Demo
-
-[▶ Watch Demo Video](https://youtu.be/tAzM6dpa8Pw)
+1. User starts a conversation with the main support bot  
+2. Bot identifies the product type and routes to a specialized bot (e.g., MouseBot, KeyboardBot)  
+3. The product-specific bot handles the query  
+4. A ticket ID is generated for tracking  
+5. Chat history is stored in CSV format  
+6. User can download the chat as a PDF  
+7. Admin panel visualizes data like queries, ratings, and escalations  
 
 ---
 
-## 🎯 Use Cases
+## Demo
+
+[Watch Demo Video](https://youtu.be/tAzM6dpa8Pw)
+
+---
+
+## Use Cases
 
 This project is ideal for demonstrating:
 
@@ -70,7 +70,7 @@ This project is ideal for demonstrating:
 
 ---
 
-## 📁 Project Highlights
+## Project Highlights
 
 - Simulates a production-like chatbot environment  
 - Modular bot routing system  
@@ -79,6 +79,6 @@ This project is ideal for demonstrating:
 
 ---
 
-## 📜 License
+## License
 
-This project is licensed under the **MIT License**.
+This project is licensed under the MIT License.
